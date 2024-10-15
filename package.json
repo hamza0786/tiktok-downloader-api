@@ -4,7 +4,8 @@
   "description": "An unofficial tiktok downloader scraper for download video, audio and images using tiktok link.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
   },
   "repository": {
     "type": "git",
